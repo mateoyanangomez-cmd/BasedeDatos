@@ -29,3 +29,7 @@ bases de datos relacionales (SGBD). Permite definir estructuras de datos, modifi
 realizar consultas complejas para extraer, actualizar o eliminar información de manera eficiente.
 
 ---
+
+## Actividades 📘
+
+[Evaluación Final](Evaluacion.md)
