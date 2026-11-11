@@ -4,24 +4,25 @@
 
 ```sql
 SELECT 
-    estudiante, 
-    carrera, 
-    ciclo 
-FROM 
-    Universidad 
+FROM  
 WHERE 
-    pasion = 'Estructurar el futuro';
+    pasion = 'Estructurar el futuro'
 
-🎓 Información del Estudiante
+
+
+🎓 ïndice
 Campo                                    Detalle
 🧑‍💻 Estudiante                       Mateo Yanangómez
-📚 MateriaBase de Datos
-🎓 CarreraComputación
-🗓️ CicloTercer Ciclo
+📚 Materia                            Base de Datos
+🎓 Carrera                             Computación
+🗓️ Ciclo                              Tercer Ciclo
+
+
 💡 ¿Qué es una Base de Datos?Es una colección organizada y estructurada de información o datos
 electrónicos que se almacenan de forma sistemática en un sistema informático.
 Permite gestionar, consultar, actualizar y recuperar grandes volúmenes de información
 de manera eficiente, segura y en tiempo real.
+
 
 ==================================================
    SISTEMA DE GESTIÓN ACADÉMICA - TEMARIO OFICIAL
